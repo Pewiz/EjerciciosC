@@ -1,4 +1,4 @@
-# 💪 Ejercicios Programación en C
+# 💪 Ejercicios de Programación en C
 
 
 >**Autor:** David Osorio, estudiante de 4° año de Ingeniería Civil en Informática en la &ensp; <img src="https://github.com/user-attachments/assets/c5b33524-0c86-4ae7-853f-949fb9737661" width="13" > Universidad de Los Lagos.
