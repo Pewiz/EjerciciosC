@@ -43,70 +43,12 @@ Durante las sesiones de ayudantía trabajaremos la lógica de programación en C
 
 ### 🔀 Condicionales
 
-- Verificar múltiplos de 10
-- Comparar dos números
-- Verificar si un carácter es mayúscula
-- Calcular descuento en compras
-- Cálculo de salario según horas normales y extras
-- Verificar si dos números son pares o impares
-- Ordenar 3 números de mayor a menor
-- Contar cifras de un número
-- Validar fecha (meses de 30 días)
-- Simulación de una calculadora
-- Clasificación de notas (0 a 7)
-- Conversión de Kg a otras unidades
-- Simulación de cajero automático
-
 ### 🔁 Ciclos y Bucles
-
-- Repetir hasta ingresar número negativo (cuadrado)
-- Identificar positivos/negativos hasta ingresar 0
-- Identificar par/impar hasta ingresar 0
-- Contar entradas hasta número negativo
-- Juego de adivinar un número
-- Suma de números hasta ingresar 0
-- Promedio de números hasta número negativo
-- Mostrar números del 1 al N
-- Contar de 100 a 0 de 7 en 7
-- Sumar 10 números ingresados
-- Producto de 10 primeros impares
-- Cálculo de factorial
-- Estadísticas de 10 números (positivos, negativos, ceros)
-- Estadísticas de 10 sueldos (> $1000)
-- Edad y estatura media de 5 alumnos
-- Tabla de multiplicar de un número (0 a 10)
-- Gestión de facturas de desinfectantes
-- Sueldo máximo de N trabajadores
-- Detectar si se ingresó algún número negativo
-- Verificar si hay notas reprobadas (calificaciones)
 
 ### 📦 Arreglos
 
-- Leer y mostrar arreglo de 5 números (orden e inverso)
-- Promedios y ceros en arreglo de 5 números
-- Mostrar arreglo en orden alterno (1°, último, 2°, penúltimo, etc.)
-- Mezclar dos arreglos en uno (A1, B1, A2, B2…)
-- Mezclar dos arreglos de 12 en bloques de 3
-- Verificar si arreglo está ordenado crecientemente o no
-- Insertar elemento en posición específica
-- Desplazar arreglo una posición hacia abajo
-- Desplazar arreglo N posiciones
-- Insertar número en arreglo ordenado
-- Eliminar elemento en una posición
-- Separar pares e impares en dos bloques del mismo arreglo
-- Fusionar dos arreglos ordenados en uno también ordenado
-- Buscar elemento N en arreglo ordenado
-- Gestión de notas de 5 alumnos en 3 trimestres
-
 ### 🪟 Matrices
 
-- Verificar si una matriz n x m es simétrica
-- Sumar dos matrices 3x3
-- Trasponer una matriz 3x3
-- Crear matriz identidad 7x7
-- Sumar filas y columnas de una matriz n x m
-- Trasponer una matriz 5x9 a 9x5
-- Crear matriz “marco” 5x5 con bordes en 1 y centro en 0
 
 
 ---
