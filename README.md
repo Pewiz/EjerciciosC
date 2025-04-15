@@ -24,6 +24,9 @@ Para comenzar, necesitarás un entorno de desarrollo para escribir y ejecutar tu
 ### 2. Dev-C++
 - **Descargar Dev-C++**: [Aquí](https://sourceforge.net/projects/orwelldevcpp/)
 
+### 🔧 Otros Requisitos
+Compilador GCC: Asegúrate de tener el compilador GCC instalado. Puedes obtenerlo junto con [MinGw](https://sourceforge.net/projects/mingw/) en Windows, o usarlo directamente en Linux y Mac desde la terminal.
+
 ---
 
 ## 📝 Contenido de las Ayudantías
