@@ -1,0 +1,1 @@
+// 6. Hacer un programa que calcule el cuadrado de una suma.
