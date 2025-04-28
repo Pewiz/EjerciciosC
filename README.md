@@ -46,6 +46,20 @@ Durante las sesiones de ayudantía trabajaremos la lógica de programación en C
 
 ### 🔀 Condicionales
 
+- Verificar múltiplos de 10
+- Comparar dos números
+- Verificar si un carácter es mayúscula
+- Calcular descuento en compras
+- Cálculo de salario según horas normales y extras
+- Verificar si dos números son pares o impares
+- Ordenar 3 números de mayor a menor
+- Contar cifras de un número
+- Validar fecha (meses de 30 días)
+- Simulación de una calculadora
+- Clasificación de notas (0 a 7)
+- Conversión de Kg a otras unidades
+- Simulación de cajero automático
+
 ### 🔁 Ciclos y Bucles
 
 ### 📦 Arreglos
