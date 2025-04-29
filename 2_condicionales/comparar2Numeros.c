@@ -1,0 +1,1 @@
+// 2. Pedir dos números y decir cual es mayor o si son iguales.
