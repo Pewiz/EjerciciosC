@@ -14,15 +14,15 @@ int main()
 
     if (n1 == n2)
     {
-        printf("Los numeros %d y %d son iguales", n1, n2);
+        printf("Los numeros son iguales");
     }
     else if (n1 > n2)
     {
-        printf("El numero mayor es: %d", n1);
+        printf("El numero %d es mayor que %d", n1, n2);
     }
     else
     {
-        printf("El numero mayor es: %d", n2);
+        printf("El numero %d es mayor que %d", n2, n1);
     }
 
     return 0;
