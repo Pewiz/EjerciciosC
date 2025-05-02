@@ -1,0 +1,1 @@
+// 6. Hace un programa que tome dos números y diga si ambos son pares o impares.

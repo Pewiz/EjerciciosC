@@ -1,0 +1,1 @@
+// 8. Pedir un número entre 0 y 99.999 y decir cuántas cifras tiene.
