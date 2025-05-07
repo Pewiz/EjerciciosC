@@ -1,0 +1,1 @@
+// 13. Pedir 10 sueldos. Mostrar la suma y cuantos hay mayores de $1000
