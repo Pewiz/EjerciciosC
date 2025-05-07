@@ -62,6 +62,26 @@ Durante las sesiones de ayudantía trabajaremos la lógica de programación en C
 
 ### 🔁 Ciclos y Bucles
 
+- Identificar positivos/negativos hasta ingresar 0
+- Identificar par/impar hasta ingresar 0
+- Contar entradas hasta número negativo
+- Juego de adivinar un número
+- Suma de números hasta ingresar 0
+- Promedio de números hasta número negativo
+- Mostrar números del 1 al N
+- Contar de 100 a 0 de 7 en 7
+- Sumar 10 números ingresados
+- Producto de 10 primeros impares
+- Cálculo de factorial
+- Estadísticas de 10 números (positivos, negativos, ceros)
+- Estadísticas de 10 sueldos (> $1000)
+- Edad y estatura media de 5 alumnos
+- Tabla de multiplicar de un número (0 a 10)
+- Gestión de facturas de desinfectantes
+- Sueldo máximo de N trabajadores
+- Detectar si se ingresó algún número negativo
+- Verificar si hay notas reprobadas (calificaciones)
+
 ### 📦 Arreglos
 
 ### 🪟 Matrices
