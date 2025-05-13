@@ -84,6 +84,22 @@ Durante las sesiones de ayudantía trabajaremos la lógica de programación en C
 
 ### 📦 Arreglos
 
+- Leer y mostrar arreglo de 5 números (orden e inverso)
+- Promedios y ceros en arreglo de 5 números
+- Mostrar arreglo en orden alterno (1°, último, 2°, penúltimo, etc.)
+- Mezclar dos arreglos en uno (A1, B1, A2, B2…)
+- Mezclar dos arreglos de 12 en bloques de 3
+- Verificar si arreglo está ordenado crecientemente o no
+- Insertar elemento en posición específica
+- Desplazar arreglo una posición hacia abajo
+- Desplazar arreglo N posiciones
+- Insertar número en arreglo ordenado
+- Eliminar elemento en una posición
+- Separar pares e impares en dos bloques del mismo arreglo
+- Fusionar dos arreglos ordenados en uno también ordenado
+- Buscar elemento N en arreglo ordenado
+- Gestión de notas de 5 alumnos en 3 trimestres
+
 ### 🪟 Matrices
 
 
