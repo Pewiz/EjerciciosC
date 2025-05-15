@@ -103,6 +103,14 @@ Durante las sesiones de ayudantía trabajaremos la lógica de programación en C
 ### 🪟 Matrices
 
 
+- Verificar si una matriz n x m es simétrica
+- Sumar dos matrices 3x3
+- Trasponer una matriz 3x3
+- Crear matriz identidad 7x7
+- Sumar filas y columnas de una matriz n x m
+- Trasponer una matriz 5x9 a 9x5
+- Crear matriz “marco” 5x5 con bordes en 1 y centro en 0
+
 
 ---
 
